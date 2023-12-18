@@ -4,14 +4,15 @@
   "description": "Projet_perso_MKGames",
   "main": "index.js",
   "source": "src/index.html",
-    "scripts": {
-	  "start": "parcel",
+  "scripts": {
+    "start": "parcel",
     "build": "parcel build"
-    },
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.3",
     "parcel": "^2.10.3"
   }
 }
