@@ -1,0 +1,17 @@
+{
+  "name": "projet_perso_mkgames",
+  "version": "1.0.0",
+  "description": "Projet_perso_MKGames",
+  "main": "index.js",
+  "source": "src/index.html",
+    "scripts": {
+	  "start": "parcel",
+    "build": "parcel build"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
